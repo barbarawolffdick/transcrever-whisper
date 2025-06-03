@@ -1,0 +1,6 @@
+# Ignorar a pasta que contém as transcrições geradas
+transcricoes/
+
+# Ignorar arquivos de áudio convertidos
+*.m4a
+*.opus
